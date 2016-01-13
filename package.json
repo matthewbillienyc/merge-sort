@@ -1,0 +1,23 @@
+{
+  "name": "merge-sort",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewbillienyc/merge-sort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewbillienyc/merge-sort/issues"
+  },
+  "homepage": "https://github.com/matthewbillienyc/merge-sort#readme",
+  "description": "",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
